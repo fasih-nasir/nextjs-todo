@@ -3,7 +3,7 @@ import StudentManagement from "./todo/page";
 export default function Home() {
   return (
     <>
-    <StudentManagement/>
+<h1>hi</h1>
     </>
     
   );
